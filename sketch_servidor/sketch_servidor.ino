@@ -58,7 +58,7 @@ void loop() {
         client.println("#demo{text-align: center;}");
         client.println("</style>");//end CSS 
         client.println("</head>");//end área de cabeçalho da página HTML 
-        client.println("<body bgcolor='#F0FFFF'>");//área de corpo para HTML
+        client.println("<body bgcolor='#F0FFFF'>");//área de corpo para HTML-
         client.println(" <header>");
         client.println("<h1 >Hello World</h1>");
         client.println(" </header>");
