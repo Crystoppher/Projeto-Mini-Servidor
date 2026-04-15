@@ -27,3 +27,5 @@ Descreva brevemente o que você implementou e clique em "Create pull request".
 Mantenha seu código limpo: Comente partes complexas se necessário.
 Sincronização: Se o projeto original mudar, não esqueça de atualizar seu fork.
 Dúvidas? Abra uma Issue no repositório principal!
+
+# Contribuidores do Projeto
